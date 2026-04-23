@@ -2,6 +2,17 @@
 
 Un potente resolvedor desarrollado en Python con una interfaz gráfica moderna (`customtkinter`), **diseñado específicamente para la actividad de Discord "Spellcast"**. Ten en cuenta que este *no* es un resolvedor de Boggle de propósito general. ¡Este resolvedor te ayuda a encontrar las palabras con mayor puntuación en el tablero de Spellcast, teniendo en cuenta casillas especiales como Diamantes, Palabra Doble (DW), Letra Doble (DL), Letra Triple (TL) e incluso comodines de letras (swaps)!
 
+## Capturas de pantalla
+
+<p align="center">
+  <img src="images/default_interface.png" width="45%" alt="Interfaz predeterminada" />
+  <img src="images/solver_in_use.png" width="45%" alt="Resolvedor en uso" />
+</p>
+<p align="center">
+  <img src="images/light_mode.png" width="45%" alt="Modo claro" />
+  <img src="images/language_menu.png" width="45%" alt="Menú de idiomas" />
+</p>
+
 ## Características
 - **Cuadrícula interactiva 5x5**: Haz clic y escribe letras directamente en la interfaz intuitiva.
 - **Anotaciones de casillas especiales**: Marca casillas específicas para Diamantes y Multiplicadores para calcular la puntuación máxima exacta.

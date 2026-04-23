@@ -2,6 +2,17 @@
 
 A powerful 5x5 word solver built in Python with a modern graphical interface (`customtkinter`), **specifically designed for the Discord activity "Spellcast"**. Please note that this is *not* a general-purpose Boggle solver. This solver helps you find the highest scoring words on a Spellcast board, taking into account special tiles like Diamonds, Double Words (DW), Double Letters (DL), Triple Letters (TL), and even letter swaps (blanks)!
 
+## Screenshots
+
+<p align="center">
+  <img src="images/default_interface.png" width="45%" alt="Default Interface" />
+  <img src="images/solver_in_use.png" width="45%" alt="Solver In Use" />
+</p>
+<p align="center">
+  <img src="images/light_mode.png" width="45%" alt="Light Mode" />
+  <img src="images/language_menu.png" width="45%" alt="Language Menu" />
+</p>
+
 ## Features
 - **5x5 Interactive Grid**: Click and type letters directly into the intuitive UI.
 - **Special Tiles Annotations**: Mark specific tiles for Diamonds, Double Words, Double Letters, and Triple Letters to calculate the exact maximum score.

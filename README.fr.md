@@ -2,6 +2,17 @@
 
 Un puissant solveur développé en Python avec une interface graphique moderne (`customtkinter`), **conçu spécifiquement pour l'activité Discord "Spellcast"**. Veuillez noter qu'il ne s'agit *pas* d'un solveur Boggle généraliste. Ce programme vous aide à trouver les mots rapportant le plus de points sur un plateau Spellcast en tenant compte des cases spéciales comme les Diamants, Mots Doubles, Lettres Doubles/Triples, ainsi que l'utilisation de jokers (swaps) !
 
+## Aperçu de l'interface
+
+<p align="center">
+  <img src="images/default_interface.png" width="45%" alt="Interface par défaut" />
+  <img src="images/solver_in_use.png" width="45%" alt="Solveur en cours d'utilisation" />
+</p>
+<p align="center">
+  <img src="images/light_mode.png" width="45%" alt="Mode Clair" />
+  <img src="images/language_menu.png" width="45%" alt="Menu des langues" />
+</p>
+
 ## Fonctionnalités
 - **Grille interactive 5x5** : Tapez directement vos lettres dans une interface ergonomique.
 - **Marquage des cases spéciales** : Placez facilement vos diamants et vos multiplicateurs pour un calcul méticuleux.

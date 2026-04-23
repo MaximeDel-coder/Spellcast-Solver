@@ -2,6 +2,17 @@
 
 Ein leistungsstarker 5x5 Wortlöser, der in Python mit einer modernen Benutzeroberfläche (`customtkinter`) entwickelt wurde und **speziell für die Discord-Aktivität "Spellcast" konzipiert ist**. Bitte beachten Sie, dass dies *kein* universeller Boggle-Solver ist. Dieser Solver hilft Ihnen, die Wörter mit den meisten Punkten auf einem Spellcast-Brett zu finden, und berücksichtigt dabei spezielle Felder wie Diamanten, Doppelwort (DW), Doppelbuchstabe (DL), Dreifachbuchstabe (TL) und sogar Buchstaben-Joker (Swaps)!
 
+## Screenshots
+
+<p align="center">
+  <img src="images/default_interface.png" width="45%" alt="Standard-Schnittstelle" />
+  <img src="images/solver_in_use.png" width="45%" alt="Solver im Einsatz" />
+</p>
+<p align="center">
+  <img src="images/light_mode.png" width="45%" alt="Heller Modus" />
+  <img src="images/language_menu.png" width="45%" alt="Sprachmenü" />
+</p>
+
 ## Funktionen
 - **Interaktives 5x5-Raster**: Klicken und tippen Sie Ihre Buchstaben direkt in das Raster ein.
 - **Spezialfeld-Markierungen**: Markieren Sie ganz einfach Diamanten und Multiplikatoren, um die absolute maximale Punktzahl zu berechnen.
