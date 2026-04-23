@@ -1,0 +1,4 @@
+nltk>=3.8.1
+customtkinter>=5.2.2
+pytest>=8.0.0
+ruff>=0.3.0

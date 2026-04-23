@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.vscode/
+.ruff_cache/
+.git/
+
+# Ignore the heavy dictionary raw files
+wordnet_raw_dictionary.csv
