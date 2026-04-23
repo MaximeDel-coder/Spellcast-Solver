@@ -1,6 +1,6 @@
-# Spellcast & Boggle Solver
+# Spellcast Solver
 
-Ein leistungsstarker 5x5 Boggle- und Spellcast-Wortlöser, der in Python mit einer modernen Benutzeroberfläche (`customtkinter`) entwickelt wurde. Dieser Solver hilft Ihnen, die Wörter mit den meisten Punkten auf einem Brett zu finden, und berücksichtigt dabei spezielle Felder wie Diamanten, Doppelwort (DW), Doppelbuchstabe (DL), Dreifachbuchstabe (TL) und sogar Buchstaben-Joker (Swaps)!
+Ein leistungsstarker 5x5 Wortlöser, der in Python mit einer modernen Benutzeroberfläche (`customtkinter`) entwickelt wurde und **speziell für die Discord-Aktivität "Spellcast" konzipiert ist**. Bitte beachten Sie, dass dies *kein* universeller Boggle-Solver ist. Dieser Solver hilft Ihnen, die Wörter mit den meisten Punkten auf einem Spellcast-Brett zu finden, und berücksichtigt dabei spezielle Felder wie Diamanten, Doppelwort (DW), Doppelbuchstabe (DL), Dreifachbuchstabe (TL) und sogar Buchstaben-Joker (Swaps)!
 
 ## Funktionen
 - **Interaktives 5x5-Raster**: Klicken und tippen Sie Ihre Buchstaben direkt in das Raster ein.

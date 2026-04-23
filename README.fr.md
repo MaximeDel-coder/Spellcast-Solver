@@ -1,6 +1,6 @@
-# Solveur Spellcast & Boggle
+# Solveur Spellcast
 
-Un puissant solveur pour Boggle 5x5 et Spellcast développé en Python avec une interface graphique moderne (`customtkinter`). Ce programme vous aide à trouver les mots rapportant le plus de points sur un plateau en tenant compte des cases spéciales comme les Diamants, Mots Doubles, Lettres Doubles/Triples, ainsi que l'utilisation de jokers (swaps) !
+Un puissant solveur développé en Python avec une interface graphique moderne (`customtkinter`), **conçu spécifiquement pour l'activité Discord "Spellcast"**. Veuillez noter qu'il ne s'agit *pas* d'un solveur Boggle généraliste. Ce programme vous aide à trouver les mots rapportant le plus de points sur un plateau Spellcast en tenant compte des cases spéciales comme les Diamants, Mots Doubles, Lettres Doubles/Triples, ainsi que l'utilisation de jokers (swaps) !
 
 ## Fonctionnalités
 - **Grille interactive 5x5** : Tapez directement vos lettres dans une interface ergonomique.

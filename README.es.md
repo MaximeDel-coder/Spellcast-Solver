@@ -1,6 +1,6 @@
-# Resolvedor de Spellcast y Boggle
+# Resolvedor de Spellcast
 
-Un potente resolvedor de Boggle 5x5 y Spellcast desarrollado en Python con una interfaz gráfica moderna (`customtkinter`). ¡Este resolvedor te ayuda a encontrar las palabras con mayor puntuación en el tablero, teniendo en cuenta casillas especiales como Diamantes, Palabra Doble (DW), Letra Doble (DL), Letra Triple (TL) e incluso comodines de letras (swaps)!
+Un potente resolvedor desarrollado en Python con una interfaz gráfica moderna (`customtkinter`), **diseñado específicamente para la actividad de Discord "Spellcast"**. Ten en cuenta que este *no* es un resolvedor de Boggle de propósito general. ¡Este resolvedor te ayuda a encontrar las palabras con mayor puntuación en el tablero de Spellcast, teniendo en cuenta casillas especiales como Diamantes, Palabra Doble (DW), Letra Doble (DL), Letra Triple (TL) e incluso comodines de letras (swaps)!
 
 ## Características
 - **Cuadrícula interactiva 5x5**: Haz clic y escribe letras directamente en la interfaz intuitiva.
